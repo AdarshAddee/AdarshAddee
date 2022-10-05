@@ -1,15 +1,18 @@
-### Hi there 👋
+<div align="center">
+	<h2> Hi there 👋, This is Adarsh Addee </h2>
+	<p> A Computer Science Student with Big Dreams </p> 
+</div>
 
 
 <!-- **AdarshAddee/AdarshAddee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Linux and Python Projects.
 - 🌱 I’m currently learning new programming languages and algorithms.
 - 💬 Ask me about Python and Linux.
 - ⚡ Fun fact: Don't wanna get involved _Rat Race_!
-<!-- - 
 📫 How to reach me: 
 - 😄 Pronouns: 
 - 👯 I’m looking to collaborate on _____.
