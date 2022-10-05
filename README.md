@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <p align='center'>
 	<a href="#">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AdarshAddee&layout=compact&theme=chartreuse-dark"
+		<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AdarshAddee&layout=compact&theme=chartreuse-dark"
 		  width="400" title="Most Used Languages">
   </a>
 </p>
@@ -55,6 +55,31 @@ Here are some ideas to get you started:
 	</p>
 
 <br>
+
+<div align="center">
+	<h3> YouTube Channel </h3>
+	<br>
+	<a href="https://www.youtube.com/channel/UCuS0--Ir5jqs3-87f6Ulwxg" class="main" title="Adarsh Addee">
+		<img src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white">
+	</a>
+	<a href="https://www.youtube.com/c/MrIdealhat" class="main" title="Mr Idealhat">
+		<img src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white">
+	</a>
+	<a href="https://www.youtube.com/channel/UCBEGnGAa04JoSZqeFHHH5_A" class="main" title="Codarsh">
+		<img src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white">
+	</a>
+</div>
+
+<br>
+
+<div align="center">
+	<h3>Knowledge in:</h3>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+	<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</div>
+
+<br>
+
 
 [![@adarshaddee's Holopin board](https://holopin.io/api/user/board?user=adarshaddee)](https://holopin.io/@adarshaddee)
 
