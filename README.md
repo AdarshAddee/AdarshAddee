@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ____.
 -->
 
-<br>
-
 <div align="center">
 	<a href="https://hits.seeyoufarm.com" title="Profile Hits"><img
 			src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAdarshAddee&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" /></a>
@@ -29,15 +27,11 @@ Here are some ideas to get you started:
 			title="Profile Vews"></a>
 </div>
 
-<br>
-
 <p align='center'>
 		<a href="#"><img
 				src="https://github-readme-stats.vercel.app/api?username=AdarshAddee&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"
 				width="400" title="Adarsh Addee's Github Starts"></a>
 	</p>
-
-<br>
 
 <p align='center'>
 	<a href="#">
@@ -45,7 +39,6 @@ Here are some ideas to get you started:
 		  width="400" title="Most Used Languages">
   </a>
 </p>
-<br>
 
  <p align='center'>
                 <a href="#"><img
@@ -58,7 +51,7 @@ Here are some ideas to get you started:
 				width="400" title="Kali-Nethunter"></a>
 	</p>
 
-<br>
+<hr>
 
 <div align="center">
 	<h3> YouTube Channel </h3>
@@ -74,7 +67,7 @@ Here are some ideas to get you started:
 	</a>
 </div>
 
-<br>
+<hr>
 
 <div align="center">
 	<h3>Knowledge in:</h3>
@@ -82,11 +75,12 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
-<br>
+<hr>
 
 [![@adarshaddee's Holopin board](https://holopin.io/api/user/board?user=adarshaddee)](https://holopin.io/@adarshaddee)
 
-<br>
+<hr>
+
 <p align="center">Nominate me to 
 	<a href='https://stars.github.com/nominate/'>Github Stars ⭐</a>
 </p>
