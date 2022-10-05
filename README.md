@@ -3,6 +3,7 @@
 	<p> A Computer Science Student with Big Dreams </p> 
 </div>
 
+<hr>
 
 <!-- **AdarshAddee/AdarshAddee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
