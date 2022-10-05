@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 	</p>
 	<p align='center'>
 		<a href="#"><img
-				src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshAddee&repo=root&theme=vision-friendly-dark"
-				width="400" title="Root Project"></a>
+				src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshAddee&repo=Kali-Nethunter&theme=vision-friendly-dark"
+				width="400" title="Kali-Nethunter"></a>
 	</p>
 
 <br>
@@ -80,7 +80,9 @@ Here are some ideas to get you started:
 
 <br>
 
-
 [![@adarshaddee's Holopin board](https://holopin.io/api/user/board?user=adarshaddee)](https://holopin.io/@adarshaddee)
 
-
+<br>
+<p align="center">Nominate me to 
+	<a href='https://stars.github.com/nominate/'>Github Stars ⭐</a>
+</p>
