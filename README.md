@@ -83,6 +83,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p align="center">Nominate me to 
+<p align="center">Nominate <a href="https://github.com/AdarshAddee">Adarsh Addee</a> to 
 	<a href='https://stars.github.com/nominate/'>Github Stars ⭐</a>
 </p>
