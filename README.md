@@ -1,6 +1,6 @@
 <div align="center">
 	<h2> Hi there 👋, This is Adarsh Addee </h2>
-	<p> A Computer Science Student with Big Dreams </p> 
+	<p> A Tech YouTuber & Programmer! </p> 
 </div>
 
 <hr>
