@@ -3,8 +3,6 @@
 	<p> A Tech YouTuber & Programmer! </p> 
 </div>
 
-<hr>
-
 <!-- **AdarshAddee/AdarshAddee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!--
@@ -52,8 +50,8 @@ Here are some ideas to get you started:
 				src="https://github-readme-stats.vercel.app/api/pin/?username=AdarshAddee&repo=Kali-Nethunter&theme=vision-friendly-dark"
 				width="400" title="Kali-Nethunter"></a>
 	</p>
-
-<hr>
+	
+	
 
 <div align="center">
 	<h3> YouTube Channel </h3>
@@ -69,7 +67,7 @@ Here are some ideas to get you started:
 	</a>
 </div>
 
-<hr>
+
 
 <div align="center">
 	<h3>Knowledge in:</h3>
@@ -77,12 +75,14 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </div>
 
-<hr>
+
+<!--
 
 [![@adarshaddee's Holopin board](https://holopin.io/api/user/board?user=adarshaddee)](https://holopin.io/@adarshaddee)
 
 <hr>
-
+-->
+<br><br>
 <p align="center">Nominate <a href="https://github.com/AdarshAddee">Adarsh Addee</a> to 
 	<a href='https://stars.github.com/nominate/'>Github Stars ⭐</a>
 </p>
