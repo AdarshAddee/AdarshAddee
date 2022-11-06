@@ -1,6 +1,6 @@
 <div align="center">
 	<h2> Hi there 👋, This is Adarsh Addee </h2>
-	<p> A Tech YouTuber & Programmer! </p> 
+	<p> [#] Tech YouTuber & Programmer! </p> 
 </div>
 
 <!-- **AdarshAddee/AdarshAddee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
