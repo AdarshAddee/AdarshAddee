@@ -56,13 +56,13 @@ Here are some ideas to get you started:
 <div align="center">
 	<h3> YouTube Channel </h3>
 	<br>
-	<a href="https://www.youtube.com/channel/UCuS0--Ir5jqs3-87f6Ulwxg" class="main" title="Adarsh Addee">
+	<a href="https://www.youtube.com/@AdarshAddee" class="main" title="Adarsh Addee">
 		<img src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white">
 	</a>
-	<a href="https://www.youtube.com/c/MrIdealhat" class="main" title="Mr Idealhat">
+	<a href="https://www.youtube.com/@MrIdealhat" class="main" title="Mr Idealhat">
 		<img src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white">
 	</a>
-	<a href="https://www.youtube.com/channel/UCBEGnGAa04JoSZqeFHHH5_A" class="main" title="Codarsh">
+	<a href="https://www.youtube.com/@Codarsh" class="main" title="Codarsh">
 		<img src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white">
 	</a>
 </div>
