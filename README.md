@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 	<a href="https://www.youtube.com/@AdarshAddee" class="main" title="Adarsh Addee">
 		<img src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white">
 	</a>
-	<a href="https://www.youtube.com/@MrIdealhat" class="main" title="Mr Idealhat">
+	<a href="https://www.youtube.com/@MrIdealhat_" class="main" title="Mr Idealhat">
 		<img src="https://img.shields.io/badge/YouTube-E4405F?style=for-the-badge&logo=youtube&logoColor=white">
 	</a>
 	<a href="https://www.youtube.com/@Codarsh" class="main" title="Codarsh">
